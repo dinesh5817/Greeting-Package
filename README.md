@@ -30,6 +30,13 @@ https://test.pypi.org/project/greeting-dinesh58/
 * CLI-based usage
 * No external dependencies
 
+## 📁 Project Structure
+greeting-dinesh58/
+│── greeting/
+│   └── __init__.py
+│── pyproject.toml
+│── README.md
+
 ##  Tech Stack
 Python
 
