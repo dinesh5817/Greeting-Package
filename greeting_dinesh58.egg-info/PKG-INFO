@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: greeting-dinesh58
+Version: 0.1.1
+Summary: Simple greeting package
+Author: Dinesh
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# Greeting Package
+This is a simple package to greet anyone with "Hello"
+
+## Install
+pip install --index-url https://test.pypi.org/simple/ greeting-dinesh58
+
+## Usage
+greet Dinesh
+
+Output:
+Hello, Dinesh!

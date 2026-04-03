@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+greeting/__init__.py
+greeting_dinesh58.egg-info/PKG-INFO
+greeting_dinesh58.egg-info/SOURCES.txt
+greeting_dinesh58.egg-info/dependency_links.txt
+greeting_dinesh58.egg-info/entry_points.txt
+greeting_dinesh58.egg-info/top_level.txt

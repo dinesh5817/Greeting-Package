@@ -1,0 +1,13 @@
+[project]
+name = "greeting-dinesh58"
+version = "0.1.1"
+description = "Simple greeting package"
+authors = [{name = "Dinesh"}]
+readme = "README.md"
+requires-python = ">=3.8"
+
+[project.scripts]
+greet = "greeting:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["greeting"]
